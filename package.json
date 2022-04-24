@@ -8,11 +8,15 @@
   },
   "author": "Darren Odi",
   "license": "ISC",
+  "engines":{
+    "node": "16.14.2"
+  },
   "dependencies": {
     "body-parser": "^1.20.0",
     "ejs": "^2.7.4",
     "express": "^4.17.3",
     "lodash": "^4.17.21",
+    "mongoose": "^6.3.1",
     "n_": "^3.0.1"
   }
 }
